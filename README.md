@@ -82,7 +82,6 @@ Estado: SP
 
 ## Próximas melhorias possíveis
 
-- Permitir consultar vários CEPs sem fechar o programa
 - Salvar histórico de consultas em JSON
 - Criar testes automatizados
 - Publicar o projeto no GitHub
